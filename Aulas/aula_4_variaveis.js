@@ -15,7 +15,7 @@ const.
 var a = 20
 var a = 30
 console.log(a, a) 
-// Neste caso retorna 30 
+// Neste caso retorna 30 X  
 var a = 50
 console.log(a)
  // neste caso retorna 50
