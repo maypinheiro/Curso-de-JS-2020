@@ -9,10 +9,11 @@ console.log(3.745 +3.743 ) //Não retorna número decimal exato.
 console.log((18.49384).toFixed(2))  // PODEMOS CHAMAR A FUNÇÃO DESTA FORMA
 console.log((10).toFixed(2))
 
-console.log(10.toFixed(2)) 
+//console.log(10.toFixed(2)) 
  // nos retorna um erro. Não podemos chamr um literal e depois a função
 
 
+ 
 
 
 
