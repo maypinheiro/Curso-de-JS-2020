@@ -1,4 +1,4 @@
-//organização Básica de um código em JS
+//Organização Básica de um código em JS
 
 // O JS é organizado em sentenças de código , que podem ou não terminar em ; podem ou não ocupar mais de uma linha.
 // Também se organizam em Blocos {} . E dentro de um bloco podemos abrir ou não outros blocos.
