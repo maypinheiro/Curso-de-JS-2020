@@ -18,7 +18,7 @@ const soma =(a,b) =>{
 console.log(soma(2,3))
 
 // retorno Implicito
-const subtracao =(a,b) => a-b
+const subtracao = (a,b) => a-b
 console.log(subtracao(2,3))
 
 const imprimira = a => console.log(a)

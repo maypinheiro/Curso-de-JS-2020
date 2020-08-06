@@ -1,4 +1,4 @@
-// Par Nome/Valor 
+// OBJETO - Par Nome/Valor 
 
 // Um Objeto é uma coleção de chave e valor
 

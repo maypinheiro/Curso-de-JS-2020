@@ -7,6 +7,9 @@
 // Criamos entre [] e separamos os elementos por , 
 // Uma aray é do tipo Objeto.
 //NÃO É RECOMENTADO MISTURAR OS DADOS.
+// .push ADICIONA NOVOS ELEMENTOS A UM ARRAY
+//.length QUANTOS ELEMENTOS TENHO EM UM ARRAY
+//  .pop ME MOSTRA O ULTIMO VALOR EXCLUINDO -O 
 
 
 const valores = [8.8, 6.9, 6.0, 22.5]
