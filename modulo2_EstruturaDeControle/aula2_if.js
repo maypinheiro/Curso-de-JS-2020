@@ -11,7 +11,7 @@ function verificar (numeros){
 }
 
 verificar(20)
-// Quand não usamos {} para delimitar a expresso ele ropa apena a primira linha, por isto o     console.log('Número verificado') sempre  sera
+// Quand não usamos {} para delimitar a expresso ele ler apena a primira linha, por isto o     console.log('Número verificado') sempre  sera
 //executado , por isto semore use {} para delimitar a estrutura 
 
 // Exemplo de ;    NUNCA USAR .

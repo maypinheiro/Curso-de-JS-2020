@@ -1,4 +1,4 @@
-/* FOR IN  */
+/* /* FOR IN  */
 
 const notas =[10,9,6,10]
 
@@ -8,7 +8,7 @@ console.log(`Sua nota é ${notas[notaindividual]}`)
 
 
 
-// Percorremos um array 
+// Percorremos um array  */
 
 
 const pessoa = {
@@ -19,4 +19,6 @@ const pessoa = {
 }
  for (let atributo in pessoa) {
      console.log (`${atributo}=${pessoa[atributo]}`)
- }
+ } 
+
+ 

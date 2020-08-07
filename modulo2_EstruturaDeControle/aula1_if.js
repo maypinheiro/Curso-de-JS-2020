@@ -1,7 +1,7 @@
-/* Esturtura de controle
-         IF  */
+/* Estrutura de controle
+ IF  */
 
-// Executa um bloco de código quando uma consição é verdeira
+// Executa um bloco de código quando uma condição é verdeira
 // Podemos tbm usar true e false para validar .
 
 

@@ -1,4 +1,5 @@
 /* Laço de Repetição FOR  */
+// for significa para 
 
 // Usando While.
 

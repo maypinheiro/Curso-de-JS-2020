@@ -21,6 +21,7 @@ const valoor = function aleatorio ( min, max) {
 
 // Outro Exemplo.
 let n1= 1 
+
  while (n1<=10) {
      console.log (`Contador ${n1}`)
      n1++

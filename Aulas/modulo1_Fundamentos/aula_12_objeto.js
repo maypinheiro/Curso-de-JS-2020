@@ -26,3 +26,13 @@ const prod2 = {
 }
 // Podemos criar um objeto dentro de ooutro objeto.
 console.log(prod2)
+
+
+
+//  objeto
+const a= {
+    nome: 'mayara',
+    idade:28,
+    sexo:'f'
+}
+ console.log(a)
