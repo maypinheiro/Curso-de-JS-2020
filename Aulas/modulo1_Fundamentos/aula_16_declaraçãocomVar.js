@@ -38,3 +38,5 @@ var numero = 1
 
  // Vai imprimir 2 , 2 pois  o Var vai pegar o escopo global. 
  // var passa a valer 2, dentro e fora. o var não se restringe ao {}
+
+ // Var é escopo Global. 

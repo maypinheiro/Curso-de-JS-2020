@@ -2,9 +2,9 @@
     Criação de Objetos de forma Literal 
 
 {} Um par de chaves representa um OBJETO
-Um objeto é uma coleção de {} e valor. 
+Um objeto é uma coleção de {} e valor: 
 
-    [] um par de conchetes representa um RRAY.
+    [] um par de conchetes representa um ARRAY.
 
 Em JS podemos definir como este objeto é dinamicamente. */
 

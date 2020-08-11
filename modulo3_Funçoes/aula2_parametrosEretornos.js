@@ -2,7 +2,6 @@
 
 // Parametros e retorns são Opcionais.
 
-// Verifiar se posso passa o NaN como verificador.  
 
 
 const calcularArea = function area(altura = 0, largura = 0) {
