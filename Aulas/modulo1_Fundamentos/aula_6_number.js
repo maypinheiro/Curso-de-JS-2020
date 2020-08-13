@@ -1,4 +1,4 @@
-/* // Number 
+/* // Number
 /*   typeof verifica o tipo de dado */
 
 /* Number Representa uma função. 
@@ -52,3 +52,4 @@ console.log(typeof Number)
  
 
 
+ 

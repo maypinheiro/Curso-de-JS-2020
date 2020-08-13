@@ -10,12 +10,13 @@ console.log (typeof Produto)
 // Exemplos Básicos de Função. 
 
 /***********************************
-*******  Função sem  retorno *******
+*******  Função sem  retorno ******
 ***********************************/
 
 function imprimirSoma(a, b) {
     console.log (a + b)
 }
+
 
 imprimirSoma (2,4)      // Passamos os parametrs para a Função.
 imprimirSoma (2)       //  Passamos apenas um parametro para a função. Neste caso retorna NaN.
@@ -30,6 +31,7 @@ imprimirSoma ( )      // Retorna um NaN.
 function soma(a, b=0) {   // Definimos como padrão o valor de b para 0
     return a+b
 }
+
 console.log(soma(2,3))
 console.log(soma(3))  // Retornou 3 pois definimos o valor de b como fixo em 0 
 

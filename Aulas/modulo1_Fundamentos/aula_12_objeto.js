@@ -1,4 +1,4 @@
-/* Objetos 
+/* Objetos. 
     Criação de Objetos de forma Literal 
 
 {} Um par de chaves representa um OBJETO
