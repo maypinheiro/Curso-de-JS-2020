@@ -9,13 +9,21 @@ quantos anos isso acontecerá. Utilize centímetros para as unidades de medida *
      } else {
          if (alturaC1 > alturaC2) {
              if (taxaDeCrescimentoC2 > taxaDeCrescimentoC1) {
-             
+                 let altinicial1 =alturaC1 +taxaDeCrescimentoC1
+                 let altinicial2 =alturaC2 +taxaDeCrescimentoC2
+                 let novaaltura1=altinicial1
+                 let novaaltura2=altinicial2
+                 
 
-                     console.log(`A criança dois ira utrapassar a criança ${novaaltura1}`)
-                 }
+               while(novaaltura1>=novaaltura2){
+                   altinicial1++
+                   altinicial2++
+                   console.log(`A criança dois ira utrapassar a criança 1`)
+               }
+                 
 
-
-             } else {
+             } 
+             else {
                  console.log(`A taxa de crescimento da criança 1 é  ${taxaDeCrescimentoC1}cm , portanto, a criança dois não ira utrapassar sua altura.`)
 
              }
@@ -23,5 +31,5 @@ quantos anos isso acontecerá. Utilize centímetros para as unidades de medida *
 
      }
 
- 
- verificaCrescimento(180, 5, 160, 10)
+ }
+ verificaCrescimento(125,5,121,6)
