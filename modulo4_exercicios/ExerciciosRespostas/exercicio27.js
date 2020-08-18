@@ -24,4 +24,4 @@ quantos anos isso acontecerá. Utilize centímetros para as unidades de medida *
      }
 
  
- verificaCrescimento(180, 5, 160, 10)
+ verificaCrescimento(180, 5, 160, 4)

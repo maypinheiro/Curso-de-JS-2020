@@ -10,6 +10,8 @@
 // .push ADICIONA NOVOS ELEMENTOS A UM ARRAY
 //.length QUANTOS ELEMENTOS TENHO EM UM ARRAY
 //  .pop ME MOSTRA O ULTIMO VALOR EXCLUINDO -O 
+// .concat () concatena duas ou mais string. 
+
 
 
 const valores = [8.8, 6.9, 6.0, 22.5]
@@ -21,7 +23,7 @@ console.log(valores[9])                             //retornar underfined - pois
 valores[4] = 10                                   // pelo indice - colocamos o valor dez na possição 4
 console.log(valores)
 
-valores.push({id:3},false,'teste')               //Usamos push - para adicionar novos elementos em um Array.
+valores.push({id:3},false,'teste')               //Usamos p9- para adicionar novos elementos em um Array.
  console.log(valores)
 console.log(valores.length)                     // length informa quantos elementos eu possuo no array
 console.log(valores.pop())                     //Me mostra o ultimo valor do Array excluindo ele 
