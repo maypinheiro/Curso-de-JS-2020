@@ -2,7 +2,7 @@
 dia. Considere que domingo é o dia 1 e sábado é o dia 7. Utilize a estrutura Switch.
  */
 
- function verificadia (dia) {
+ function verificaDia (dia) {
      switch(dia) {
          case 1 : {
              console.log(`Fim de semana - Domingo`)
@@ -33,4 +33,4 @@ dia. Considere que domingo é o dia 1 e sábado é o dia 7. Utilize a estrutura 
      }
 
  }
- verificadia(7)
+ verificaDia(7)

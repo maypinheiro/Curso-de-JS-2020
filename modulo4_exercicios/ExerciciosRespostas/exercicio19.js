@@ -49,4 +49,4 @@ function compras(codigo, quantidade=1) {
         }
     }
 }
-compras(700,17)
+compras(100,17)

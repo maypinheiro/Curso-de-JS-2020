@@ -2,7 +2,7 @@
  */
 
 
- // Ordenar os Numeros de um array
+// Ordenar os Numeros de um array
 let numeros= [10,2,8,33,1]
 
 function comprar (n1,n2) {   // função para compar os numeros 
@@ -10,7 +10,7 @@ function comprar (n1,n2) {   // função para compar os numeros
 }
 
 console.log(numeros.sort(comprar))
-console.log(numeros.sort(comprar)[0])  // ordernar os numeros em ordem crescente
+console.log(numeros.sort(comprar)[0])  // pega o menor numero.
 console.log(numeros.sort(comprar).reverse()[0]) // ordenar os numeros em ordem decrecente. 
 
  

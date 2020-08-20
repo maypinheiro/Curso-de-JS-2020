@@ -9,14 +9,7 @@ numéricos na ordem que foram inseridos. Por exemplo: calculadora (2, ‘+’, 3
 
 
 function calc(n1=0,sinal,n2=0) {
-    /* let n1 = 3
-    let n2 = 8  */
-    let resutado = 0
-
-
-    switch (sinal) {
-
-
+     switch (sinal) {
         case '+': {
             resutado = n1 + n2
             console.log(resutado)

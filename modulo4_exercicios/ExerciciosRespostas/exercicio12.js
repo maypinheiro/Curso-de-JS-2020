@@ -9,3 +9,15 @@ function calculaFatorial(numero) {
     return fatorial
 }
 console.log(calculaFatorial(9))
+
+function fatorial(n){
+    let res =n
+    
+   for (i=1;i<n;i++){
+  return res =res*n
+
+   }
+  
+}
+
+console.log(fatorial(4))

@@ -27,6 +27,9 @@ function resutadoFinal(nota) {
     }
 }
 
+
+
+
 resutadoFinal(51)
 
 

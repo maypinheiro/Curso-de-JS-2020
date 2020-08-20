@@ -12,5 +12,15 @@ function dinheiroCerto (arrumar) {
     return arrumar.toFixed(2).replace('.',',')
 }
 
- 
 console.log(`R$ ${dinheiroCerto(arrumar)}`)
+
+
+////////////////   Refeito   ////////////////////
+function virgulaEdoisCaracteresAposVirgula (numero) {
+    return numero.toFixed(2).replace('.',',')
+}
+
+let numero=0.45+0.1
+console.log(`R$ ${virgulaEdoisCaracteresAposVirgula(numero)}`)
+console.log(virgulaEdoisCaracteresAposVirgula(20))
+
