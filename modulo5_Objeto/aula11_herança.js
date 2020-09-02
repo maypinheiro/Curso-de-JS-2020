@@ -16,5 +16,20 @@ MeuObjeto.prototype.falar= function(){
 
 obj1.falar() 
 
+obj2.nome='Rafael'
+obj2.falar()
+obj1.nome='Claudia'
+obj1.falar()
 
 
+const obj3 ={}
+obj3.__proto__= MeuObjeto.prototype
+obj3.nome='Fernanda Obj3'
+obj3.falar()
+
+
+// Resumindo ...
+console.log((new MeuObjeto).__proto__ ===MeuObjeto.prototype)  //TRUE
+console.log(MeuObjeto.__proto__=== Function.prototype) ////TRUE
+console.log(Function.prototype.__proto__===Object.prototype) //TRUE
+console.log(Object.prototype.__proto__) // null pois apos ele não tem mais ninguem 
