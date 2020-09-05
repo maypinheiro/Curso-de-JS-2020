@@ -23,5 +23,6 @@ class Filho extends Pai {
 }
 
 const filho =new Filho
-
+ 
+filho.idade=2
 console.log(filho)

@@ -42,7 +42,9 @@ const dest ={ a:1}
 const o1={b:2}
 const o2={c:3}
 const o3={j:2,d:6,a:9}
-const obj= Object.assign(dest,o1,o2,o3)  // gera a concatenacao dos objestos
+const obj= Object.assign(dest,o1,o2,o3)  // gera a concatenacao dos Objetos.
+
+
 console.log(obj)   // me retona  todos os objs concatenados, posso chamar o dest que tbm me retornara todos concatenados, caso um obj já tenha sido declarado ele subscreve
 
 Object.freeze(obj)

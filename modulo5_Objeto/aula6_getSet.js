@@ -6,7 +6,7 @@
   */
 
  const sequencia ={
-     _valor:1,// conversão
+     _valor:1,    // conversão
      get valor(){
          return this._valor++
      },

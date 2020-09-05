@@ -1,4 +1,4 @@
-// Objeto Constante
+// Objeto Constante.
 
 //  Esta const esta apontando para o endereço de memoria . 
 // pessoa -> 123

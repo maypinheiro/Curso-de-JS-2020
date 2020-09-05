@@ -1,7 +1,7 @@
 /* CLASSE */
 
 /* O conceito de Classe em JS surgiu em 2015,
-um classe é conertida para uma função. */
+um classe é convertida para uma função. */
 
 
 class Lancamento {
