@@ -14,6 +14,8 @@ console.log(aprovados[0])//marcia
 
 // substituindo um elemento que ja existe
 aprovados[1]= 'CAMILO'
+
+
 // Adicionando um elemento na ultima posiçao
 console.log(aprovados)
 aprovados.push('Marcos')
@@ -34,8 +36,16 @@ console.log(aprovados[8]===null) // false
 // Algumas funcoes 
 
 // ORDENA O ARRAY. ( altera o array , ordena em ordem alfabetica / e numecia recisa de uma função)
-aprovados.sort()
-console.log(aprovados)
+let numeros=[4,9,1,11,3,22,4]
+
+function ordem (a,b){
+     return a-b
+ }
+ numeros.sort(ordem)
+
+console.log(numeros)
+
+
 
 
 // excluindo um elemento
