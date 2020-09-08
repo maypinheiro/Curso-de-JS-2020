@@ -12,8 +12,8 @@ const alunos=[
 ]
 
 const resultado= alunos.map(a=>a.nota).reduce(function(acumulador,atual){
-    console.log(acumulador,atual)
+    //console.log(acumulador,atual)
     return acumulador +atual
-},0)  // Este zero referece ao valor que desejo que inicie.
+},0)  // Este zero referece ao valor que desejo que inicie./ se for iniciar o zero não é obrigatorio passar.
 
 console.log(resultado)

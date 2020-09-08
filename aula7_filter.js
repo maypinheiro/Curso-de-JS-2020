@@ -12,17 +12,17 @@ const produtos =[
     {nome:"Panela",preco:3564,fragil:false}
 ]
 
-console.log(produtos.filter(function(p){
-    return p.preco >2000
+console.log(produtos.filter(function(i){
+    return i.preco >2000
 }))
 
-console.log(produtos.filter(function(p){
-    return p.fragil == false
+console.log(produtos.filter(function(i){
+    return i.fragil == false
 }))
 
 
-console.log(produtos.filter(function(p){
-    return p.preco>2000&&p.fragil==true
+console.log(produtos.filter(function(i){
+    return i.preco>2000&&i.fragil==true
 }))
 
 

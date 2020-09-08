@@ -30,10 +30,11 @@ console.log(pilotos)
 pilotos.splice(3,1)
 console.log(pilotos)
 
+//////////////////////////////////////////////////////////////////////////////
 
-/// slice()  gera um novo array apartir do indice que vxx esta passando
+// slice()  gera um novo array apartir do indice que VC esta passando
 
-// pegamosum pedaço do array o primeiro indece é o que quero é o segundo ate onde eu quero  excluindo o  ultimo numero não entra.
+// pegamos um pedaço do array o primeiro indece é o que quero é o segundo ate onde eu quero  excluindo o  ultimo numero não entra.
 const algunsPilotos1=pilotos.slice(2)
 console.log(pilotos)
 console.log(algunsPilotos1)

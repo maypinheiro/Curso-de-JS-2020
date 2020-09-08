@@ -10,7 +10,8 @@
     
     const paraObjeto=json=>JSON.parse(json)  // transformando o json em array.
     const apenaspreco=produto=>produto.preço
-
     const resultado =carrinho.map(paraObjeto).map(apenaspreco)
-
     console.log(resultado)
+    const nomes1=nomes=>nomes.nome
+    const res= carrinho.map(paraObjeto).map(nomes1)
+console.log(res)

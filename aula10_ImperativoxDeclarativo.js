@@ -31,3 +31,7 @@ const total2= alunos.map(notas).reduce(soma)
 console.log(total2 /alunos.length)
 
 
+/*  fiz para colocar tofixed()
+
+const res3=total2/alunos.length
+console.log(res3.toFixed(2)) */
