@@ -1,0 +1,26 @@
+{
+  "name": "cursodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcionarios.js",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "mpn": "nodemon",
+    "dev":"nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maypinheiro/Curso-de-JS-2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maypinheiro/Curso-de-JS-2020/issues"
+  },
+  "homepage": "https://github.com/maypinheiro/Curso-de-JS-2020#readme"
+}
